@@ -19,6 +19,8 @@
 
 ## 👋 Contribute
 
+We welcome contributions! Just fork and make a pull request
+
 This project is build using [VueJS 2](https://vuejs.org/).
 
 ``` bash
