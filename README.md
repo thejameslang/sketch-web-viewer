@@ -38,4 +38,4 @@ npm run build
 
 For detailed explanation on building for development, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
-Made with ❤️ by the Anima Team
+Made with ❤️ by the [Anima Team](https://www.animaapp.com)
