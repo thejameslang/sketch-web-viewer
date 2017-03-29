@@ -1,9 +1,9 @@
 {
   "name": "sketch-web-viewer",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "View Sketch files in your browser",
   "author": "contact@animaapp.com",
-  "private": true,
+  "private": false,
   "scripts": {
     "dev": "node build/dev-server.js",
     "build": "node build/build.js",
