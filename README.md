@@ -3,21 +3,21 @@
 
 > View and inspect Sketch files in your browser
 
-## Features
+## 👉 Features
 
 * 💎 View Sketch files across browsers and operating systems.
 * 🔍 Inspect layer frame values by hovering on them
 * 🔒 No server side - your Sketch file is never uploaded anywhere
 * ✈️ Can run completely offline 
 
-## Known Issues
+## ☝️ Known Issues
 
 * No support for multiple pages documents
 * Large preview images overflow viewport and navbar
 * Tooltips override each other
 * More...
 
-## Build Setup
+## 👋 Contribute
 
 ``` bash
 # install dependencies
@@ -31,3 +31,5 @@ npm run build
 ```
 
 For detailed explanation on building for development, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+Made with ❤️ by the Anima Team
