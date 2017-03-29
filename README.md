@@ -12,10 +12,10 @@
 
 ## ☝️ Known Issues
 
-* No support for multiple pages documents
+* No support for multiple pages documents - [Issue #1](https://github.com/AnimaApp/sketch-web-viewer/issues/1)
 * Large preview images overflow viewport and navbar
 * Tooltips override each other
-* More...
+* [More...](https://github.com/AnimaApp/sketch-web-viewer/issues/1)
 
 ## 👋 Contribute
 
