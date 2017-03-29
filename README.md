@@ -19,6 +19,8 @@
 
 ## 👋 Contribute
 
+This project is build using [VueJS 2](https://vuejs.org/).
+
 ``` bash
 # install dependencies
 npm install
