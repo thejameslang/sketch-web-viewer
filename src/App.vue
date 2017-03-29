@@ -29,6 +29,18 @@
   </div>
   <div v-if="!imageData">
     <dropzone v-on:changed="onFileChange"></dropzone>
+
+    <div style="text-align: center; color: red">
+    {{error}}
+    <div v-if="error">
+      You can download Sketch 43 Beta here: <a href="https://rink.hockeyapp.net/api/2/apps/0172d48cceec171249a8d850fb16276b?format=zip">Download</a>
+    </div>
+  </div>
+    <div style="text-align: center;">
+    <a href="https://github.com/AnimaApp/sketch-web-viewer/raw/master/Fitness%20App.sketch">
+      Demo file
+    </a>
+  </div>
   </div>
 </div>
 </template>
@@ -111,7 +123,7 @@ export default {
           })
         }, function (e) {
           console.log(e)
-          vm.error = 'Could not load Sketch file'
+          vm.error = 'Only .sketch files that were saved using the new Sketch 43 are supported.'
         })
       }
       reader.readAsArrayBuffer(file)
@@ -128,6 +140,14 @@ export default {
   text-align: center;
   color: #2c3e50;
   margin-top: 60px;
+}
+
+body {
+  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+}
+
+a {
+  font-family: 'Avenir', Helvetica, Arial, sans-serif;
 }
 
 .dropzone-area {

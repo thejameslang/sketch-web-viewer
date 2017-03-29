@@ -2,7 +2,7 @@
   <div>
     <div class="dropzone-area" drag-over="handleDragOver">
       <div class="dropzone-text">
-        <span class="dropzone-title">Drop Sketch file here or click to select</span>
+        <span class="dropzone-title">Drop Sketch 43 file here or click to select</span>
       </div>
       <input type="file" @change="onFileChange">
     </div>
