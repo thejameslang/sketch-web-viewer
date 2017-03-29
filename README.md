@@ -1,6 +1,21 @@
-# sketch-web-viewer
+# Sketch Web Viewer 💎 🔍
+![](demo.gif)
 
-> View Sketch files in your browser
+> View and inspect Sketch files in your browser
+
+## Features
+
+* 💎 View Sketch files across browsers and operating systems.
+* 🔍 Inspect layer frame values by hovering on them
+* 🔒 No server side - your Sketch file is never uploaded anywhere
+* ✈️ Can run completely offline 
+
+## Known Issues
+
+* No support for multiple pages documents
+* Large preview images overflow viewport and navbar
+* Tooltips override each other
+* More...
 
 ## Build Setup
 
@@ -13,10 +28,6 @@ npm run dev
 
 # build for production with minification
 npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
 ```
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-# sketch-web-viewer
+For detailed explanation on building for development, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
