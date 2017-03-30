@@ -1,7 +1,9 @@
 # Sketch Web Viewer 💎 🔍
 ![](demo.gif)
 
-> View and inspect Sketch files in your browser
+> View and inspect Sketch files in your browser.
+
+**[Try it here.](https://animaapp.github.io/sketch-web-viewer/)**
 
 ## 👉 Features
 
@@ -10,7 +12,7 @@
 * 🔒 No server side - your Sketch file is never uploaded anywhere
 * ✈️ Can run completely offline 
 
-**Supports only the new Sketch 43 file format. Sketch 43 Beta cn be downloaded [here](https://rink.hockeyapp.net/api/2/apps/0172d48cceec171249a8d850fb16276b?format=zip)**
+**Supports only the new Sketch 43 file format. Sketch 43 Beta can be downloaded [here](https://rink.hockeyapp.net/api/2/apps/0172d48cceec171249a8d850fb16276b?format=zip)**
 
 ## ☝️ Known Issues
 
