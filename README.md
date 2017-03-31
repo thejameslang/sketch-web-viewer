@@ -7,10 +7,11 @@
 
 ## 👉 Features
 
-* 💎 View Sketch files across browsers and operating systems.
+* 💎 View Sketch files across browsers and operating systems
 * 🔍 Inspect layer frame values by hovering on them
 * 🔒 No server side - your Sketch file is never uploaded anywhere
 * ✈️ Can run completely offline 
+* 🗽 No need to signup or login to anything
 
 **Supports only the new Sketch 43 file format. Sketch 43 Beta can be downloaded [here](https://rink.hockeyapp.net/api/2/apps/0172d48cceec171249a8d850fb16276b?format=zip)**
 
