@@ -2,7 +2,7 @@
 
 ---
 
-This project is brought to you by [Launchpad for Sketch](https://www.animaapp.com?utm_medium=web&utm_source=github&utm_content=swv) - Publish websites directly from Sketch, no coding needed.
+This project is brought to you by [Launchpad for Sketch](https://www.animaapp.com/joinfree?utm_medium=web&utm_source=github&utm_content=swv) - Publish websites directly from Sketch, no coding needed.
 
 ---
 
